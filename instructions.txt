@@ -3,3 +3,4 @@ Instructions for new site
 -----------------------------
 
 Placeholder
+lets edit this to merge to remote
